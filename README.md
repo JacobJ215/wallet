@@ -76,10 +76,6 @@ The following dependencies are required for this assignment and were likely alre
 
 - Create a file called `wallet.py` -- this will be your universal wallet script. You can use [this starter code](Starter-Code/wallet.py) as a starting point.
 
-- Your directory tree should look something like this:
-
-  ![directory-tree](Images/tree.png)
-
 ### 2. Setup constants
 
 - In a separate file, `constants.py`, set the following constants:
